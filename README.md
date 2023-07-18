@@ -11,9 +11,9 @@
 
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#tecnologias)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [mãos à Obra](#mãos-à-obra)
+  * [Pré-requisitos](#pré-requisitos)
+  * [Instalação](#instalação)
 
 ## Sobre o Projeto
 
@@ -23,12 +23,12 @@ There are many great README templates available on GitHub, however, I didn't fin
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-## Getting Started
+## mãos à Obra
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Pré-requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -38,7 +38,7 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
-### Installation
+### Instalação
 
 1. Get a free API Key at [https://example.com](https://example.com)
 
