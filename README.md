@@ -1,33 +1,9 @@
-# TSPI2.0-JulioDeLima-Modulo10-TestesWeb
-Módulo de Testes Web do TSPI 2.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 <p align="center">
-
-  <h3 align="center">ReadME Generator</h3>
-
-  <p align="center">
-    Repositório do módulo de testes web do TSPI 2.0 do Júlio de Lima
-  </p>
+  <h2 align="center">Repositório do módulo de testes web do TSPI 2.0 do Júlio de Lima</h2>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/ShaanCoding/ReadME-Generator) 
+![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![License](https://img.shields.io/github/license/elccastro/TSPI2.0-JulioDeLima-Modulo10-TestesWeb) 
 
 ## Table Of Contents
 
