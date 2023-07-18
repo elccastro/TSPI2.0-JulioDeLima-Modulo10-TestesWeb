@@ -9,8 +9,8 @@
 
 ## Índice
 
-* [About the Project](#sobre-o-projeto)
-* [Built With](#built-with)
+* [Sobre o Projeto](#sobre-o-projeto)
+* [Tecnologias](#tecnologias)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -19,7 +19,7 @@
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
-## Built With
+## Tecnologias
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
