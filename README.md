@@ -23,17 +23,7 @@ Módulo de Testes Web do TSPI 2.0
   <h3 align="center">ReadME Generator</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
-    <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator">View Demo</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
+    Repositório do módulo de testes web do TSPI 2.0 do Júlio de Lima
   </p>
 </p>
 
