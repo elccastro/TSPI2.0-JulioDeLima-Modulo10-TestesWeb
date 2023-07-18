@@ -9,7 +9,7 @@
 
 ## Índice
 
-* [About the Project](#about-the-project)
+* [About the Project](#sobre-o-projeto)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
