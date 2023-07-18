@@ -11,7 +11,7 @@
 
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#tecnologias)
-* [mãos à Obra](#mãos-à-obra)
+* [Mãos à Obra](#mãos-à-obra)
   * [Pré-requisitos](#pré-requisitos)
   * [Instalação](#instalação)
 
@@ -23,7 +23,7 @@ There are many great README templates available on GitHub, however, I didn't fin
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-## mãos à Obra
+## Mãos à Obra
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
