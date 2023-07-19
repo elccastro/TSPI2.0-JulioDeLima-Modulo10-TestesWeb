@@ -3,7 +3,7 @@
   <h2 align="center">Repositório do módulo de testes web do TSPI 2.0 do Júlio de Lima</h2>
 </p>
 
-  ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![License](https://img.shields.io/github/license/elccastro/TSPI2.0-JulioDeLima-Modulo10-TestesWeb) 
+  ![Contributors](https://img.shields.io/github/contributors/elccastro/TSPI2.0-JulioDeLima-Modulo10-TestesWeb?color=dark-green) ![License](https://img.shields.io/github/license/elccastro/TSPI2.0-JulioDeLima-Modulo10-TestesWeb) 
 
 
 
